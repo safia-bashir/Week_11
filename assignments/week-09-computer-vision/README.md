@@ -25,7 +25,7 @@ At the end of this session, you will be able to
 
 # 🛠️ Pre-work
 
-For this assignment, we will use Colab to take advantage of its free GPU. Setup are included inside the notebook, yet tricky (tested okay as of late June 2022). Make sure to run [demo-interactive-fsl-rubberduck](prework/demo-interactive-fsl-rubberduck.ipynb) in Colab without errors. This demo notebook will also better prepare you for the upcoming coding session.
+For this assignment, we will use Colab to take advantage of its free GPU. Setup are included inside the notebook, yet tricky (tested okay as of late June 2022). Make sure to run [demo-interactive-fsl-rubberduck](nb/demo-interactive-fsl-rubberduck.ipynb) in Colab without errors. This demo notebook will also better prepare you for the upcoming coding session.
 
 In addition, you need to upload the data, images and annotation files, under `dat/dog_dataset` to your google drive, ideally you will use the same path `/content/drive/My Drive/fourthbrain/dog_dataset`.
 
